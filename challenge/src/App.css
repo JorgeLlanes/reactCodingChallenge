@@ -4,3 +4,7 @@
     padding: 0;
     font-family: "Roboto Mono", monospace;
   }
+
+  .time {
+    color: rgb(159, 143, 149);
+}
