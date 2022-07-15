@@ -4,6 +4,6 @@
 
 #### Jorge | Cohort B | R2H
 
-* [WEB](https://effervescent-cobbler-012132.netlify.app/) - Hosted on Netlify
+* [WEB](https://startling-salamander-529f44.netlify.app/) - Hosted on Netlify
 
 ### challenge Folder has the CODE
