@@ -10,8 +10,8 @@ function Nav() {
       <nav>
         <Link className="links" to="/">Home</Link>
         <Link className="links" to="/products">Products</Link>
-        <Link className="links" to="/contact">About</Link>
-        <Link className="links" to="/about">Contact</Link>
+        <Link className="links" to="/about">About</Link>
+        <Link className="links" to="/contact">Contact</Link>
       </nav>
     </div>
   )
